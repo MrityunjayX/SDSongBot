@@ -1,6 +1,6 @@
 # Plugin by @Mr_Dark_Prince
 #SDBOTs <https://t.me/SDBOTs_Inifinity>
-import wget
+
 import os
 import requests
 import aiohttp
